@@ -1,0 +1,4 @@
+My Target
+-Learning Programming with structure and management
+-make flatform
+-make portopolio
